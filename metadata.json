@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin Mining & Electricity Strike-Price Optimiser",
+  "description": "An industrial-grade energy and economic dispatch optimiser for Bitcoin mining fleets, modeling real-time Rust telemetry, R forecasting, and Monte Carlo risk simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
